@@ -1,6 +1,6 @@
 # Número de Candidatas do gênero Feminino versus a Taxa de Feminicídio no Brasil, dos anos de 2004 à 2020.
 
-### Será realizado um comparativo do número de candidatas mulheres, nos cargos de Presidentas, Deputadas Federal e Estadual, Senadoras, Prefeitas (tanto nos cargos titulares, quanto vice) e também Vereadoras, versus a taxa de Feminicído disponibilizado pelo IPEA (Instituto de Pesquisas Econômicas Aplicadas).
+### Será realizado um comparativo do número de candidatas mulheres, para os cargos de Presidentas, Deputadas Federal e Estadual, Senadoras, Prefeitas (tanto nos cargos titulares, quanto vice) e também Vereadoras, versus a taxa de Feminicído disponibilizado pelo IPEA (Instituto de Pesquisas Econômicas Aplicadas).
 
 
 
