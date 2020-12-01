@@ -14,16 +14,41 @@
 **Aluna:** Ariana Rodrigues Cursino
 
 
-## Obtenção dos Dados
+### Baixe todos dados brutos .csv do projeto aqui:
+
+- Os dados brutos das Candidatas será obtido no link:
+https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais
+
+Na parte Candidatos De 2004 à 2020
+
+**Caso prefira utilizar os dados já concatenados é só dar 'unzip' no arquivo:**
+[consulta_cand_2004_2020_BRASIL](https://github.com/arcursino/candidatas-mulheres-versus-taxa-feminicidio/blob/main/consulta_cand_2004_2020_BRASIL.zip)
+
+**Caso prefira fazer todo o processo de limpeza e processamento:**
+- Os dados de 2004 a 2012 (Entrar na respectiva pasta) e dar unzip no arquivo e processar no notebook
+- Os dados de 2014 a 2020 já estão compilados e limpos em .csv
+
 
 - O Atlas da Violência pode ser obtido no link: 
-
 http://repositorio.ipea.gov.br/handle/11058/7956
 
 
-- E os dados das Candidatas será obtido no link:
+### Recomendações para o uso:
+iniciar > CMD > enter
 
-https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais
+pip install -r requirements.txt
+
+jupyter notebook
+
+Veja os notebooks no diretório que acabou de baixar, tem a extensão ipynb
+
+### Caso escolha Docker
+iniciar > CMD > enter
+
+make start
+
+**Dúvidas: arcursino@gmail.com**
+
 
 
 
