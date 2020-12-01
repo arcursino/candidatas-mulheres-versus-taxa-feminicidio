@@ -26,7 +26,7 @@ Na parte Candidatos De 2004 à 2020
 
 **Caso prefira fazer todo o processo de limpeza e processamento:**
 - Os dados de 2004 a 2012 (Entrar na respectiva pasta) e dar unzip no arquivo e processar no notebook
-- Os dados de 2014 a 2020 já estão compilados e limpos em .csv
+- Os dados de 2014 a 2020 já estão compilados e limpos em .csv (deverão ser obtidos do site acima)
 
 
 - O Atlas da Violência pode ser obtido no link: 
