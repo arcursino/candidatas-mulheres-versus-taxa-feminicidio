@@ -14,6 +14,9 @@
 **Aluna:** Ariana Rodrigues Cursino
 
 
+### Análise Final pode ser acessada por aqui:
+[Análise](https://github.com/arcursino/candidatas-mulheres-versus-taxa-feminicidio/blob/main/analise_candidata_feminicidio.ipynb)
+
 ### Baixe todos dados brutos .csv do projeto aqui:
 
 - Os dados brutos das Candidatas será obtido no link:
@@ -26,7 +29,8 @@ Na parte Candidatos De 2004 à 2020
 
 **Caso prefira fazer todo o processo de limpeza e processamento:**
 - Os dados de 2004 a 2012 (Entrar na respectiva pasta) e dar unzip no arquivo e processar no notebook
-- Os dados de 2014 a 2020 já estão compilados e limpos em .csv (deverão ser obtidos do site acima)
+- Os dados de 2014 a 2020 já estão compilados e limpos em .csv (deverão ser obtidos do site do tse)
+- o processo de concatenação de todos os anos em um único .csv está no [notebook](https://github.com/arcursino/candidatas-mulheres-versus-taxa-feminicidio/blob/main/total.ipynb)
 
 
 - O Atlas da Violência pode ser obtido no link: 
